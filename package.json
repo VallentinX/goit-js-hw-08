@@ -2,20 +2,20 @@
   "name": "goit-js-hw-08",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://vallentinx.github.io/goit-js-hw-08/",
+  "homepage": "https://github.com/vallentinx/goit-js-hw-08",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "https://vallentinx.github.io/goit-js-hw-08/"
+    "build": "https://github.com/vallentinx/goit-js-hw-08"
   },
   "repository": {
     "type": "git",
-    "url": "https://vallentinx.github.io/goit-js-hw-08/"
+    "url": "https://github.com/vallentinx/goit-js-hw-08"
   },
   "keywords": [],
   "author": "Cristian Valentin",
   "license": "ISC",
   "bugs": {
-    "url": "https://vallentinx.github.io/goit-js-hw-08/"
+    "url": "https://github.com/vallentinx/goit-js-hw-08"
   },
   "dependencies": {
     "@vimeo/player": "^2.20.1",
